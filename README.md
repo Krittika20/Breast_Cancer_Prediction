@@ -8,5 +8,5 @@ Breast cancer detection using 4 different models i.e. Logistic Regression, KNN, 
 
 ## Dataset 
 
-[a link] https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data <br />
 Dataset initially consist of 569 rows and 33 features . Various data cleaning and feature selection techniques were used to select 11 most impotant features in the dataset.
